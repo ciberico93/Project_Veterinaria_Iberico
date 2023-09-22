@@ -1,0 +1,94 @@
+﻿@using VeterinariaWebApp.Entities;
+@model CitaView
+@{
+    ViewData["Title"] = "Citas";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1 class="mt-5">Lista de Citas</h1>
+
+<form asp-action="Index" method="get">
+    <div class="row justify-content-center mt-3 mb-4">
+        <div class="col-sm-6 col-md-8 col-xl-12">
+            <div class="input-group">
+                <input type="text" class="form-control" placeholder="Buscar..." name="nombre"
+                       value="@ViewBag.Nombre" />
+                <button class="btn btn-outline-secondary" type="submit">
+                    <i class="oi oi-magnifying-glass"></i>
+                </button>
+            </div>
+        </div>
+    </div>
+</form>
+
+<a class="btn btn-primary" asp-action="Index"><i class="oi oi-reload me-1"></i>Cargar Lista</a>
+<a class="btn btn-outline-primary" asp-action="Create"><i class="oi oi-plus me-1"></i>Crear</a>
+
+<hr />
+
+@if (Model.Citas.Count == 0)
+{
+    <p class="alert alert-warning">No hay datos para mostrar</p>
+}
+else
+{
+    <table class="table table-primary table-hover table-bordered">
+        <thead>
+            <tr class="table-dark">
+                <th>ID</th>
+                <th><i class="oi oi-image"></i></th>
+                <th>Motivo</th>
+                <th>Fecha de registro</th>
+                <th>Propietario</th>
+                <th>Nombre de la mascota</th>
+                <th>Tipo de servicio</th>
+                <th>Precio del servicio</th>
+                <th>Acciones</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.Citas)
+            {
+                <tr class="table-light">
+                    <td>@item.Id</td>
+                    <td>
+                        @if (!string.IsNullOrEmpty(item.FotoMascota))
+                        {
+                            <img src="@item.FotoMascota" alt="@item.Mascota" class="img-thumbnail" width="100" />
+                        }
+                        else
+                        {
+                            <img src="/assets/images/sinimagen.jpeg" alt="@item.Mascota" class="img-thumbnail" width="100" />
+                        }
+                    </td>           
+                    <td>@item.Motivo</td>
+                    <td>@item.FechaHora</td>
+                    <td>@item.Cliente</td>
+                    <td>@item.Mascota</td>
+                    <td>@item.Servicio</td>
+                    <td>S/. @item.PrecioUnitario</td>
+                    <td>
+                        <a class="btn btn-primary" asp-action="Edit"
+                           asp-route-id="@item.Id"><i class="oi oi-pencil"></i></a>
+
+                        @if (User.IsInRole(Constantes.RolAdmin))
+                        {
+                            <a class="btn btn-danger btnEliminar" data-id="@item.Id"><i class="oi oi-trash"></i></a>
+                        }
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+
+
+@section Scripts
+    {
+    @{
+        <partial name="_DeleteConfirmation" model="@Model.Delete" />
+    }
+}
+
+

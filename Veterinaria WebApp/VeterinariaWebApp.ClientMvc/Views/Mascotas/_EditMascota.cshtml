@@ -1,0 +1,97 @@
+﻿@model MascotaViewModel
+
+<div asp-validation-summary="All" class="text-danger"></div>
+<div class="row row-cols-md-2 row-cols-lg-1">
+    <div class="col">
+        <div class="mb-3 row">
+            <label class="col-sm-2 form-label" asp-for="Nombres"></label>
+            <div class="col-sm-6">
+                <input asp-for="Nombres" class="form-control" />
+                <span asp-validation-for="Nombres" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="mb-3 row">
+            <label class="col-sm-2 form-label" asp-for="Raza"></label>
+            <div class="col-sm-6">
+                <input asp-for="Raza" class="form-control" />
+                <span asp-validation-for="Raza" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="mb-3 row">
+            <label class="col-sm-2 form-label" asp-for="FechaNacimiento"></label>
+            <div class="col-sm-6">
+                <input type="date" asp-for="FechaNacimiento" class="form-control" />
+                <span asp-validation-for="FechaNacimiento" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="mb-3 row">
+            <label class="col-sm-2 col-form-label" asp-for="ClienteId"></label>
+            <div class="col-sm-6">
+                <select class="form-select" asp-for="ClienteId">
+                    <option>-Seleccione-</option>
+                    @foreach (var item in Model.Clientes)
+                    {
+                        <option value="@item.Id">@item.Nombres @item.Apellidos</option>
+                    }
+                </select>
+            </div>
+        </div>
+        <div class="mb-3 row">
+            <label class="col-sm-2 col-form-label" asp-for="TipoMascotaId"></label>
+            <div class="col-sm-6">
+                <select class="form-select" asp-for="TipoMascotaId">
+                    <option>-Seleccione-</option>
+                    @foreach (var item in Model.TiposMascotas)
+                    {
+                        <option value="@item.Id">@item.Nombres</option>
+                    }
+                </select>
+            </div>
+        </div>
+
+    </div>
+    <div class="col">
+        <div class="card">
+            <div class="card-body">
+                @if (string.IsNullOrEmpty(Model.UrlImagen))
+                {
+                    <div style="margin:10px">
+                        <img id="previewImage" src="/assets/images/sinimagen.jpeg"
+                             alt="@Model.Nombres" style="width: 300px" />
+                    </div>
+                }
+                else
+                {
+                    <img id="previewImage" src="@Model.UrlImagen" alt="@Model.Nombres" style="width: 300px" />
+                }
+            </div>
+            <div class="card-footer">
+                <input asp-for="Archivo" type="file" accept="image/png, image/jpeg, imag/webp"
+                       id="imageInput" name="imageFile" style="display: none" />
+                <label for="imageInput" class="btn btn-info"><i class="oi oi-camera-slr me-1"></i>IMAGEN</label>
+                <span asp-validation-for="Archivo" class="text-danger" />
+            </div>
+        </div>
+    </div>
+
+    <button type="submit" class="btn btn-primary w-25"><i class="oi oi-plus me-1"></i>Grabar</button>
+
+</div>
+
+<script>
+    document.getElementById("imageInput").addEventListener("change", function () {
+        var previewImage = document.getElementById("previewImage");
+        var imageInput = this;
+
+        if (imageInput.files && imageInput.files[0]) {
+            var reader = new FileReader();
+
+            reader.onload = function (e) {
+                previewImage.src = e.target.result;
+                previewImage.style.display = "block";
+            };
+
+            reader.readAsDataURL(imageInput.files[0]);
+        }
+    });
+</script>

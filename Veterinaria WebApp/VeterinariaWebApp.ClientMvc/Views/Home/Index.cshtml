@@ -1,0 +1,32 @@
+﻿@model CitaView
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h1 class="text-center">Bienvenido al sistema de veterinaria</h1>
+
+<div class="row justify-content-center mt-3 mb-4">
+    <div class="col-sm-6 col-md-8 col-xl-9">
+        <form asp-action="Index" method="get">
+            <div class="input-group">
+                <input type="text" class="form-control" placeholder="Buscar..." name="buscar"
+                       value="@ViewBag.Buscar" />
+                <button class="btn btn-outline-secondary" type="submit">
+                    <i class="oi oi-magnifying-glass"></i>
+                </button>
+            </div>
+        </form>
+    </div>
+</div>
+
+@if (Model.Citas.Any())
+{
+    <div class="container">
+        <div class="row gx-4 row-cols-1 row-cols-md-3 row-cols-xl-4 justify-content-start">
+            @foreach (var item in Model.Citas)
+            {
+                <partial name="_CitaCard" model="item" />
+            }
+        </div>
+    </div>
+}

@@ -1,0 +1,19 @@
+﻿@model MascotaViewModel
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 class="mt-5">Editar mascota</h2>
+
+<form asp-controller="Mascotas" asp-action="Edit" method="post" enctype="multipart/form-data">
+    <input asp-for="Id" hidden />
+    <partial name="_EditMascota" model="Model" />
+</form>
+
+@section Scripts{
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+}
+

@@ -1,0 +1,19 @@
+﻿@model TipoMascotaViewModel
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 class="mt-5">Crear tipo de mascota</h2>
+
+<form asp-controller="TipoMascotas" asp-action="Create" method="post">
+    <partial name="_EditTipoMascota" model="Model" />
+</form>
+
+@section Scripts{
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+}
+
+

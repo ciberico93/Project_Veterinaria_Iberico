@@ -1,0 +1,20 @@
+﻿@model ClienteViewModel
+
+@{
+    ViewBag.Title = "Editar Cliente";
+    Layout = "_Layout";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<form asp-controller="Clientes" asp-action="Edit" method="post">
+    <input asp-for="Id" hidden />
+    <partial name="_EditCliente" model="Model" />
+</form>
+
+@section Scripts{
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+}
+

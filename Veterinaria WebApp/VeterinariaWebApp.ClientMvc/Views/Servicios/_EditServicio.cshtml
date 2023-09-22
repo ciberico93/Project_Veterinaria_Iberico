@@ -1,0 +1,40 @@
+﻿@model ServicioViewModel
+
+<div asp-validation-summary="All" class="text-danger"></div>
+<div class="row row-cols-md-2 row-cols-lg-1">
+    <div class="col">
+        <div class="mb-3 row">
+            <label class="col-sm-2 form-label" asp-for="Nombres"></label>
+            <div class="col-sm-6">
+                <input asp-for="Nombres" class="form-control" />
+                <span asp-validation-for="Nombres" class="text-danger"></span>
+            </div>
+        </div>
+       
+        <div class="mb-3 row">
+            <label class="col-sm-2 form-label" asp-for="PrecioUnitario"></label>
+            <div class="col-sm-6">
+                <input type="number" asp-for="PrecioUnitario" class="form-control" />
+                <span asp-validation-for="PrecioUnitario" class="text-danger"></span>
+            </div>
+        </div>
+
+        <div class="mb-3 row">
+            <label for="comments" class="col-sm-2 col-md-4 col-form-label">Descripcion:</label>
+            <div class="col-sm-6 col-md-9">
+                <textarea asp-for="Descripcion" class="form-control" id="nombre"></textarea>
+                <span asp-validation-for="Descripcion" class="text-danger" />
+            </div>
+        </div>
+    </div>
+
+    <button type="submit" class="btn btn-primary w-25"><i class="oi oi-plus me-1"></i>Grabar</button>
+
+</div>
+
+<style>
+    textarea {
+        resize: none;
+        height: 150px;
+    }
+</style>

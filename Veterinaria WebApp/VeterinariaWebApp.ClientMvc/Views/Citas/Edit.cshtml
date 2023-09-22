@@ -1,0 +1,19 @@
+﻿@model CitaViewModel
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 class="mt-5">Editar Cita</h2>
+
+<form asp-controller="Citas" asp-action="Edit" method="post">
+    <partial name="_EditCita" model="Model" />
+</form>
+
+@section Scripts{
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+}
+
+

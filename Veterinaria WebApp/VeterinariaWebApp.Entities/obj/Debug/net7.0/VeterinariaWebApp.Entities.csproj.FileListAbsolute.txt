@@ -1,0 +1,36 @@
+G:\2023_VS _ CIBERICO\Veterinaria WebApp\VeterinariaWebApp.Entities\bin\Debug\net7.0\VeterinariaWebApp.Entities.deps.json
+G:\2023_VS _ CIBERICO\Veterinaria WebApp\VeterinariaWebApp.Entities\bin\Debug\net7.0\VeterinariaWebApp.Entities.dll
+G:\2023_VS _ CIBERICO\Veterinaria WebApp\VeterinariaWebApp.Entities\bin\Debug\net7.0\VeterinariaWebApp.Entities.pdb
+G:\2023_VS _ CIBERICO\Veterinaria WebApp\VeterinariaWebApp.Entities\obj\Debug\net7.0\VeterinariaWebApp.Entities.csproj.AssemblyReference.cache
+G:\2023_VS _ CIBERICO\Veterinaria WebApp\VeterinariaWebApp.Entities\obj\Debug\net7.0\VeterinariaWebApp.Entities.GeneratedMSBuildEditorConfig.editorconfig
+G:\2023_VS _ CIBERICO\Veterinaria WebApp\VeterinariaWebApp.Entities\obj\Debug\net7.0\VeterinariaWebApp.Entities.AssemblyInfoInputs.cache
+G:\2023_VS _ CIBERICO\Veterinaria WebApp\VeterinariaWebApp.Entities\obj\Debug\net7.0\VeterinariaWebApp.Entities.AssemblyInfo.cs
+G:\2023_VS _ CIBERICO\Veterinaria WebApp\VeterinariaWebApp.Entities\obj\Debug\net7.0\VeterinariaWebApp.Entities.csproj.CoreCompileInputs.cache
+G:\2023_VS _ CIBERICO\Veterinaria WebApp\VeterinariaWebApp.Entities\obj\Debug\net7.0\VeterinariaWebApp.Entities.dll
+G:\2023_VS _ CIBERICO\Veterinaria WebApp\VeterinariaWebApp.Entities\obj\Debug\net7.0\refint\VeterinariaWebApp.Entities.dll
+G:\2023_VS _ CIBERICO\Veterinaria WebApp\VeterinariaWebApp.Entities\obj\Debug\net7.0\VeterinariaWebApp.Entities.pdb
+G:\2023_VS _ CIBERICO\Veterinaria WebApp\VeterinariaWebApp.Entities\obj\Debug\net7.0\ref\VeterinariaWebApp.Entities.dll
+G:\2023_VS _ CIBERICO\ProyectoFinal-VeterinariaWebApp\Veterinaria WebApp\VeterinariaWebApp.Entities\bin\Debug\net7.0\VeterinariaWebApp.Entities.deps.json
+G:\2023_VS _ CIBERICO\ProyectoFinal-VeterinariaWebApp\Veterinaria WebApp\VeterinariaWebApp.Entities\bin\Debug\net7.0\VeterinariaWebApp.Entities.dll
+G:\2023_VS _ CIBERICO\ProyectoFinal-VeterinariaWebApp\Veterinaria WebApp\VeterinariaWebApp.Entities\bin\Debug\net7.0\VeterinariaWebApp.Entities.pdb
+G:\2023_VS _ CIBERICO\ProyectoFinal-VeterinariaWebApp\Veterinaria WebApp\VeterinariaWebApp.Entities\obj\Debug\net7.0\VeterinariaWebApp.Entities.csproj.AssemblyReference.cache
+G:\2023_VS _ CIBERICO\ProyectoFinal-VeterinariaWebApp\Veterinaria WebApp\VeterinariaWebApp.Entities\obj\Debug\net7.0\VeterinariaWebApp.Entities.GeneratedMSBuildEditorConfig.editorconfig
+G:\2023_VS _ CIBERICO\ProyectoFinal-VeterinariaWebApp\Veterinaria WebApp\VeterinariaWebApp.Entities\obj\Debug\net7.0\VeterinariaWebApp.Entities.AssemblyInfoInputs.cache
+G:\2023_VS _ CIBERICO\ProyectoFinal-VeterinariaWebApp\Veterinaria WebApp\VeterinariaWebApp.Entities\obj\Debug\net7.0\VeterinariaWebApp.Entities.AssemblyInfo.cs
+G:\2023_VS _ CIBERICO\ProyectoFinal-VeterinariaWebApp\Veterinaria WebApp\VeterinariaWebApp.Entities\obj\Debug\net7.0\VeterinariaWebApp.Entities.csproj.CoreCompileInputs.cache
+G:\2023_VS _ CIBERICO\ProyectoFinal-VeterinariaWebApp\Veterinaria WebApp\VeterinariaWebApp.Entities\obj\Debug\net7.0\VeterinariaWebApp.Entities.dll
+G:\2023_VS _ CIBERICO\ProyectoFinal-VeterinariaWebApp\Veterinaria WebApp\VeterinariaWebApp.Entities\obj\Debug\net7.0\refint\VeterinariaWebApp.Entities.dll
+G:\2023_VS _ CIBERICO\ProyectoFinal-VeterinariaWebApp\Veterinaria WebApp\VeterinariaWebApp.Entities\obj\Debug\net7.0\VeterinariaWebApp.Entities.pdb
+G:\2023_VS _ CIBERICO\ProyectoFinal-VeterinariaWebApp\Veterinaria WebApp\VeterinariaWebApp.Entities\obj\Debug\net7.0\ref\VeterinariaWebApp.Entities.dll
+D:\WEB_Veternaria\VeterinariaWebApp\Veterinaria WebApp\VeterinariaWebApp.Entities\bin\Debug\net7.0\VeterinariaWebApp.Entities.deps.json
+D:\WEB_Veternaria\VeterinariaWebApp\Veterinaria WebApp\VeterinariaWebApp.Entities\bin\Debug\net7.0\VeterinariaWebApp.Entities.dll
+D:\WEB_Veternaria\VeterinariaWebApp\Veterinaria WebApp\VeterinariaWebApp.Entities\bin\Debug\net7.0\VeterinariaWebApp.Entities.pdb
+D:\WEB_Veternaria\VeterinariaWebApp\Veterinaria WebApp\VeterinariaWebApp.Entities\obj\Debug\net7.0\VeterinariaWebApp.Entities.csproj.AssemblyReference.cache
+D:\WEB_Veternaria\VeterinariaWebApp\Veterinaria WebApp\VeterinariaWebApp.Entities\obj\Debug\net7.0\VeterinariaWebApp.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\WEB_Veternaria\VeterinariaWebApp\Veterinaria WebApp\VeterinariaWebApp.Entities\obj\Debug\net7.0\VeterinariaWebApp.Entities.AssemblyInfoInputs.cache
+D:\WEB_Veternaria\VeterinariaWebApp\Veterinaria WebApp\VeterinariaWebApp.Entities\obj\Debug\net7.0\VeterinariaWebApp.Entities.AssemblyInfo.cs
+D:\WEB_Veternaria\VeterinariaWebApp\Veterinaria WebApp\VeterinariaWebApp.Entities\obj\Debug\net7.0\VeterinariaWebApp.Entities.csproj.CoreCompileInputs.cache
+D:\WEB_Veternaria\VeterinariaWebApp\Veterinaria WebApp\VeterinariaWebApp.Entities\obj\Debug\net7.0\VeterinariaWebApp.Entities.dll
+D:\WEB_Veternaria\VeterinariaWebApp\Veterinaria WebApp\VeterinariaWebApp.Entities\obj\Debug\net7.0\refint\VeterinariaWebApp.Entities.dll
+D:\WEB_Veternaria\VeterinariaWebApp\Veterinaria WebApp\VeterinariaWebApp.Entities\obj\Debug\net7.0\VeterinariaWebApp.Entities.pdb
+D:\WEB_Veternaria\VeterinariaWebApp\Veterinaria WebApp\VeterinariaWebApp.Entities\obj\Debug\net7.0\ref\VeterinariaWebApp.Entities.dll

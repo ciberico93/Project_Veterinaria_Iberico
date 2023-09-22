@@ -1,0 +1,18 @@
+﻿@model ClienteViewModel
+
+@{
+    ViewBag.Title = "Cliente";
+    Layout = "_Layout";
+}
+
+<h2 class="mt-5">Cliente</h2>
+
+<form asp-controller="Clientes" asp-action="Create" method="post">
+    <partial name="_EditCliente" model="Model" />
+</form>
+
+@section Scripts{
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+}

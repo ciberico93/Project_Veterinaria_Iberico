@@ -1,0 +1,51 @@
+G:\2023_VS _ CIBERICO\Veterinaria WebApp\VeterinariaWebApp.Repositories\bin\Debug\net7.0\VeterinariaWebApp.Repositories.deps.json
+G:\2023_VS _ CIBERICO\Veterinaria WebApp\VeterinariaWebApp.Repositories\bin\Debug\net7.0\VeterinariaWebApp.Repositories.dll
+G:\2023_VS _ CIBERICO\Veterinaria WebApp\VeterinariaWebApp.Repositories\bin\Debug\net7.0\VeterinariaWebApp.Repositories.pdb
+G:\2023_VS _ CIBERICO\Veterinaria WebApp\VeterinariaWebApp.Repositories\bin\Debug\net7.0\VeterinariaWebApp.DataAccess.dll
+G:\2023_VS _ CIBERICO\Veterinaria WebApp\VeterinariaWebApp.Repositories\bin\Debug\net7.0\VeterinariaWebApp.Entities.dll
+G:\2023_VS _ CIBERICO\Veterinaria WebApp\VeterinariaWebApp.Repositories\bin\Debug\net7.0\VeterinariaWebApp.DataAccess.pdb
+G:\2023_VS _ CIBERICO\Veterinaria WebApp\VeterinariaWebApp.Repositories\bin\Debug\net7.0\VeterinariaWebApp.Entities.pdb
+G:\2023_VS _ CIBERICO\Veterinaria WebApp\VeterinariaWebApp.Repositories\obj\Debug\net7.0\VeterinariaWebApp.Repositories.csproj.AssemblyReference.cache
+G:\2023_VS _ CIBERICO\Veterinaria WebApp\VeterinariaWebApp.Repositories\obj\Debug\net7.0\VeterinariaWebApp.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+G:\2023_VS _ CIBERICO\Veterinaria WebApp\VeterinariaWebApp.Repositories\obj\Debug\net7.0\VeterinariaWebApp.Repositories.AssemblyInfoInputs.cache
+G:\2023_VS _ CIBERICO\Veterinaria WebApp\VeterinariaWebApp.Repositories\obj\Debug\net7.0\VeterinariaWebApp.Repositories.AssemblyInfo.cs
+G:\2023_VS _ CIBERICO\Veterinaria WebApp\VeterinariaWebApp.Repositories\obj\Debug\net7.0\VeterinariaWebApp.Repositories.csproj.CoreCompileInputs.cache
+G:\2023_VS _ CIBERICO\Veterinaria WebApp\VeterinariaWebApp.Repositories\obj\Debug\net7.0\VeterinariaWebApp.Repositories.csproj.CopyComplete
+G:\2023_VS _ CIBERICO\Veterinaria WebApp\VeterinariaWebApp.Repositories\obj\Debug\net7.0\VeterinariaWebApp.Repositories.dll
+G:\2023_VS _ CIBERICO\Veterinaria WebApp\VeterinariaWebApp.Repositories\obj\Debug\net7.0\refint\VeterinariaWebApp.Repositories.dll
+G:\2023_VS _ CIBERICO\Veterinaria WebApp\VeterinariaWebApp.Repositories\obj\Debug\net7.0\VeterinariaWebApp.Repositories.pdb
+G:\2023_VS _ CIBERICO\Veterinaria WebApp\VeterinariaWebApp.Repositories\obj\Debug\net7.0\ref\VeterinariaWebApp.Repositories.dll
+G:\2023_VS _ CIBERICO\ProyectoFinal-VeterinariaWebApp\Veterinaria WebApp\VeterinariaWebApp.Repositories\bin\Debug\net7.0\VeterinariaWebApp.Repositories.deps.json
+G:\2023_VS _ CIBERICO\ProyectoFinal-VeterinariaWebApp\Veterinaria WebApp\VeterinariaWebApp.Repositories\bin\Debug\net7.0\VeterinariaWebApp.Repositories.dll
+G:\2023_VS _ CIBERICO\ProyectoFinal-VeterinariaWebApp\Veterinaria WebApp\VeterinariaWebApp.Repositories\bin\Debug\net7.0\VeterinariaWebApp.Repositories.pdb
+G:\2023_VS _ CIBERICO\ProyectoFinal-VeterinariaWebApp\Veterinaria WebApp\VeterinariaWebApp.Repositories\bin\Debug\net7.0\VeterinariaWebApp.DataAccess.dll
+G:\2023_VS _ CIBERICO\ProyectoFinal-VeterinariaWebApp\Veterinaria WebApp\VeterinariaWebApp.Repositories\bin\Debug\net7.0\VeterinariaWebApp.Entities.dll
+G:\2023_VS _ CIBERICO\ProyectoFinal-VeterinariaWebApp\Veterinaria WebApp\VeterinariaWebApp.Repositories\bin\Debug\net7.0\VeterinariaWebApp.DataAccess.pdb
+G:\2023_VS _ CIBERICO\ProyectoFinal-VeterinariaWebApp\Veterinaria WebApp\VeterinariaWebApp.Repositories\bin\Debug\net7.0\VeterinariaWebApp.Entities.pdb
+G:\2023_VS _ CIBERICO\ProyectoFinal-VeterinariaWebApp\Veterinaria WebApp\VeterinariaWebApp.Repositories\obj\Debug\net7.0\VeterinariaWebApp.Repositories.csproj.AssemblyReference.cache
+G:\2023_VS _ CIBERICO\ProyectoFinal-VeterinariaWebApp\Veterinaria WebApp\VeterinariaWebApp.Repositories\obj\Debug\net7.0\VeterinariaWebApp.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+G:\2023_VS _ CIBERICO\ProyectoFinal-VeterinariaWebApp\Veterinaria WebApp\VeterinariaWebApp.Repositories\obj\Debug\net7.0\VeterinariaWebApp.Repositories.AssemblyInfoInputs.cache
+G:\2023_VS _ CIBERICO\ProyectoFinal-VeterinariaWebApp\Veterinaria WebApp\VeterinariaWebApp.Repositories\obj\Debug\net7.0\VeterinariaWebApp.Repositories.AssemblyInfo.cs
+G:\2023_VS _ CIBERICO\ProyectoFinal-VeterinariaWebApp\Veterinaria WebApp\VeterinariaWebApp.Repositories\obj\Debug\net7.0\VeterinariaWebApp.Repositories.csproj.CoreCompileInputs.cache
+G:\2023_VS _ CIBERICO\ProyectoFinal-VeterinariaWebApp\Veterinaria WebApp\VeterinariaWebApp.Repositories\obj\Debug\net7.0\VeterinariaWebApp.Repositories.csproj.CopyComplete
+G:\2023_VS _ CIBERICO\ProyectoFinal-VeterinariaWebApp\Veterinaria WebApp\VeterinariaWebApp.Repositories\obj\Debug\net7.0\VeterinariaWebApp.Repositories.dll
+G:\2023_VS _ CIBERICO\ProyectoFinal-VeterinariaWebApp\Veterinaria WebApp\VeterinariaWebApp.Repositories\obj\Debug\net7.0\refint\VeterinariaWebApp.Repositories.dll
+G:\2023_VS _ CIBERICO\ProyectoFinal-VeterinariaWebApp\Veterinaria WebApp\VeterinariaWebApp.Repositories\obj\Debug\net7.0\VeterinariaWebApp.Repositories.pdb
+G:\2023_VS _ CIBERICO\ProyectoFinal-VeterinariaWebApp\Veterinaria WebApp\VeterinariaWebApp.Repositories\obj\Debug\net7.0\ref\VeterinariaWebApp.Repositories.dll
+D:\WEB_Veternaria\VeterinariaWebApp\Veterinaria WebApp\VeterinariaWebApp.Repositories\bin\Debug\net7.0\VeterinariaWebApp.Repositories.deps.json
+D:\WEB_Veternaria\VeterinariaWebApp\Veterinaria WebApp\VeterinariaWebApp.Repositories\bin\Debug\net7.0\VeterinariaWebApp.Repositories.dll
+D:\WEB_Veternaria\VeterinariaWebApp\Veterinaria WebApp\VeterinariaWebApp.Repositories\bin\Debug\net7.0\VeterinariaWebApp.Repositories.pdb
+D:\WEB_Veternaria\VeterinariaWebApp\Veterinaria WebApp\VeterinariaWebApp.Repositories\bin\Debug\net7.0\VeterinariaWebApp.DataAccess.dll
+D:\WEB_Veternaria\VeterinariaWebApp\Veterinaria WebApp\VeterinariaWebApp.Repositories\bin\Debug\net7.0\VeterinariaWebApp.Entities.dll
+D:\WEB_Veternaria\VeterinariaWebApp\Veterinaria WebApp\VeterinariaWebApp.Repositories\bin\Debug\net7.0\VeterinariaWebApp.DataAccess.pdb
+D:\WEB_Veternaria\VeterinariaWebApp\Veterinaria WebApp\VeterinariaWebApp.Repositories\bin\Debug\net7.0\VeterinariaWebApp.Entities.pdb
+D:\WEB_Veternaria\VeterinariaWebApp\Veterinaria WebApp\VeterinariaWebApp.Repositories\obj\Debug\net7.0\VeterinariaWebApp.Repositories.csproj.AssemblyReference.cache
+D:\WEB_Veternaria\VeterinariaWebApp\Veterinaria WebApp\VeterinariaWebApp.Repositories\obj\Debug\net7.0\VeterinariaWebApp.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\WEB_Veternaria\VeterinariaWebApp\Veterinaria WebApp\VeterinariaWebApp.Repositories\obj\Debug\net7.0\VeterinariaWebApp.Repositories.AssemblyInfoInputs.cache
+D:\WEB_Veternaria\VeterinariaWebApp\Veterinaria WebApp\VeterinariaWebApp.Repositories\obj\Debug\net7.0\VeterinariaWebApp.Repositories.AssemblyInfo.cs
+D:\WEB_Veternaria\VeterinariaWebApp\Veterinaria WebApp\VeterinariaWebApp.Repositories\obj\Debug\net7.0\VeterinariaWebApp.Repositories.csproj.CoreCompileInputs.cache
+D:\WEB_Veternaria\VeterinariaWebApp\Veterinaria WebApp\VeterinariaWebApp.Repositories\obj\Debug\net7.0\VeterinariaWebApp.Repositories.csproj.CopyComplete
+D:\WEB_Veternaria\VeterinariaWebApp\Veterinaria WebApp\VeterinariaWebApp.Repositories\obj\Debug\net7.0\VeterinariaWebApp.Repositories.dll
+D:\WEB_Veternaria\VeterinariaWebApp\Veterinaria WebApp\VeterinariaWebApp.Repositories\obj\Debug\net7.0\refint\VeterinariaWebApp.Repositories.dll
+D:\WEB_Veternaria\VeterinariaWebApp\Veterinaria WebApp\VeterinariaWebApp.Repositories\obj\Debug\net7.0\VeterinariaWebApp.Repositories.pdb
+D:\WEB_Veternaria\VeterinariaWebApp\Veterinaria WebApp\VeterinariaWebApp.Repositories\obj\Debug\net7.0\ref\VeterinariaWebApp.Repositories.dll

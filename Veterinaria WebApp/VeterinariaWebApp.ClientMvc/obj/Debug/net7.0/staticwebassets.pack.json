@@ -1,0 +1,317 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\WEB_Veternaria\\VeterinariaWebApp\\Veterinaria WebApp\\VeterinariaWebApp.ClientMvc\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\VeterinariaWebApp.ClientMvc.bundle.scp.css",
+      "PackagePath": "staticwebassets\\VeterinariaWebApp.ClientMvc.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\WEB_Veternaria\\VeterinariaWebApp\\Veterinaria WebApp\\VeterinariaWebApp.ClientMvc\\wwwroot\\assets\\images\\sinimagen.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\sinimagen.jpeg"
+    },
+    {
+      "Id": "D:\\WEB_Veternaria\\VeterinariaWebApp\\Veterinaria WebApp\\VeterinariaWebApp.ClientMvc\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\WEB_Veternaria\\VeterinariaWebApp\\Veterinaria WebApp\\VeterinariaWebApp.ClientMvc\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\WEB_Veternaria\\VeterinariaWebApp\\Veterinaria WebApp\\VeterinariaWebApp.ClientMvc\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\WEB_Veternaria\\VeterinariaWebApp\\Veterinaria WebApp\\VeterinariaWebApp.ClientMvc\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\WEB_Veternaria\\VeterinariaWebApp\\Veterinaria WebApp\\VeterinariaWebApp.ClientMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\WEB_Veternaria\\VeterinariaWebApp\\Veterinaria WebApp\\VeterinariaWebApp.ClientMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\WEB_Veternaria\\VeterinariaWebApp\\Veterinaria WebApp\\VeterinariaWebApp.ClientMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\WEB_Veternaria\\VeterinariaWebApp\\Veterinaria WebApp\\VeterinariaWebApp.ClientMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\WEB_Veternaria\\VeterinariaWebApp\\Veterinaria WebApp\\VeterinariaWebApp.ClientMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\WEB_Veternaria\\VeterinariaWebApp\\Veterinaria WebApp\\VeterinariaWebApp.ClientMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\WEB_Veternaria\\VeterinariaWebApp\\Veterinaria WebApp\\VeterinariaWebApp.ClientMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\WEB_Veternaria\\VeterinariaWebApp\\Veterinaria WebApp\\VeterinariaWebApp.ClientMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\WEB_Veternaria\\VeterinariaWebApp\\Veterinaria WebApp\\VeterinariaWebApp.ClientMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\WEB_Veternaria\\VeterinariaWebApp\\Veterinaria WebApp\\VeterinariaWebApp.ClientMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\WEB_Veternaria\\VeterinariaWebApp\\Veterinaria WebApp\\VeterinariaWebApp.ClientMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\WEB_Veternaria\\VeterinariaWebApp\\Veterinaria WebApp\\VeterinariaWebApp.ClientMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\WEB_Veternaria\\VeterinariaWebApp\\Veterinaria WebApp\\VeterinariaWebApp.ClientMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\WEB_Veternaria\\VeterinariaWebApp\\Veterinaria WebApp\\VeterinariaWebApp.ClientMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\WEB_Veternaria\\VeterinariaWebApp\\Veterinaria WebApp\\VeterinariaWebApp.ClientMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\WEB_Veternaria\\VeterinariaWebApp\\Veterinaria WebApp\\VeterinariaWebApp.ClientMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\WEB_Veternaria\\VeterinariaWebApp\\Veterinaria WebApp\\VeterinariaWebApp.ClientMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\WEB_Veternaria\\VeterinariaWebApp\\Veterinaria WebApp\\VeterinariaWebApp.ClientMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\WEB_Veternaria\\VeterinariaWebApp\\Veterinaria WebApp\\VeterinariaWebApp.ClientMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\WEB_Veternaria\\VeterinariaWebApp\\Veterinaria WebApp\\VeterinariaWebApp.ClientMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\WEB_Veternaria\\VeterinariaWebApp\\Veterinaria WebApp\\VeterinariaWebApp.ClientMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\WEB_Veternaria\\VeterinariaWebApp\\Veterinaria WebApp\\VeterinariaWebApp.ClientMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\WEB_Veternaria\\VeterinariaWebApp\\Veterinaria WebApp\\VeterinariaWebApp.ClientMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\WEB_Veternaria\\VeterinariaWebApp\\Veterinaria WebApp\\VeterinariaWebApp.ClientMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\WEB_Veternaria\\VeterinariaWebApp\\Veterinaria WebApp\\VeterinariaWebApp.ClientMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\WEB_Veternaria\\VeterinariaWebApp\\Veterinaria WebApp\\VeterinariaWebApp.ClientMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\WEB_Veternaria\\VeterinariaWebApp\\Veterinaria WebApp\\VeterinariaWebApp.ClientMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\WEB_Veternaria\\VeterinariaWebApp\\Veterinaria WebApp\\VeterinariaWebApp.ClientMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\WEB_Veternaria\\VeterinariaWebApp\\Veterinaria WebApp\\VeterinariaWebApp.ClientMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\WEB_Veternaria\\VeterinariaWebApp\\Veterinaria WebApp\\VeterinariaWebApp.ClientMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\WEB_Veternaria\\VeterinariaWebApp\\Veterinaria WebApp\\VeterinariaWebApp.ClientMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\WEB_Veternaria\\VeterinariaWebApp\\Veterinaria WebApp\\VeterinariaWebApp.ClientMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\WEB_Veternaria\\VeterinariaWebApp\\Veterinaria WebApp\\VeterinariaWebApp.ClientMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\WEB_Veternaria\\VeterinariaWebApp\\Veterinaria WebApp\\VeterinariaWebApp.ClientMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\WEB_Veternaria\\VeterinariaWebApp\\Veterinaria WebApp\\VeterinariaWebApp.ClientMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\WEB_Veternaria\\VeterinariaWebApp\\Veterinaria WebApp\\VeterinariaWebApp.ClientMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\WEB_Veternaria\\VeterinariaWebApp\\Veterinaria WebApp\\VeterinariaWebApp.ClientMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\WEB_Veternaria\\VeterinariaWebApp\\Veterinaria WebApp\\VeterinariaWebApp.ClientMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\WEB_Veternaria\\VeterinariaWebApp\\Veterinaria WebApp\\VeterinariaWebApp.ClientMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\WEB_Veternaria\\VeterinariaWebApp\\Veterinaria WebApp\\VeterinariaWebApp.ClientMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\WEB_Veternaria\\VeterinariaWebApp\\Veterinaria WebApp\\VeterinariaWebApp.ClientMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\WEB_Veternaria\\VeterinariaWebApp\\Veterinaria WebApp\\VeterinariaWebApp.ClientMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\WEB_Veternaria\\VeterinariaWebApp\\Veterinaria WebApp\\VeterinariaWebApp.ClientMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\WEB_Veternaria\\VeterinariaWebApp\\Veterinaria WebApp\\VeterinariaWebApp.ClientMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\WEB_Veternaria\\VeterinariaWebApp\\Veterinaria WebApp\\VeterinariaWebApp.ClientMvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\WEB_Veternaria\\VeterinariaWebApp\\Veterinaria WebApp\\VeterinariaWebApp.ClientMvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\WEB_Veternaria\\VeterinariaWebApp\\Veterinaria WebApp\\VeterinariaWebApp.ClientMvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\WEB_Veternaria\\VeterinariaWebApp\\Veterinaria WebApp\\VeterinariaWebApp.ClientMvc\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\WEB_Veternaria\\VeterinariaWebApp\\Veterinaria WebApp\\VeterinariaWebApp.ClientMvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\WEB_Veternaria\\VeterinariaWebApp\\Veterinaria WebApp\\VeterinariaWebApp.ClientMvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\WEB_Veternaria\\VeterinariaWebApp\\Veterinaria WebApp\\VeterinariaWebApp.ClientMvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\WEB_Veternaria\\VeterinariaWebApp\\Veterinaria WebApp\\VeterinariaWebApp.ClientMvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\WEB_Veternaria\\VeterinariaWebApp\\Veterinaria WebApp\\VeterinariaWebApp.ClientMvc\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\WEB_Veternaria\\VeterinariaWebApp\\Veterinaria WebApp\\VeterinariaWebApp.ClientMvc\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\WEB_Veternaria\\VeterinariaWebApp\\Veterinaria WebApp\\VeterinariaWebApp.ClientMvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\WEB_Veternaria\\VeterinariaWebApp\\Veterinaria WebApp\\VeterinariaWebApp.ClientMvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\WEB_Veternaria\\VeterinariaWebApp\\Veterinaria WebApp\\VeterinariaWebApp.ClientMvc\\wwwroot\\uploads\\02e71d7c-4211-4deb-93ac-075459e90045_boby.png",
+      "PackagePath": "staticwebassets\\uploads\\02e71d7c-4211-4deb-93ac-075459e90045_boby.png"
+    },
+    {
+      "Id": "D:\\WEB_Veternaria\\VeterinariaWebApp\\Veterinaria WebApp\\VeterinariaWebApp.ClientMvc\\wwwroot\\uploads\\0527da6d-f1fd-46ac-9b8e-ad52f190c7c3_mochi.jpg",
+      "PackagePath": "staticwebassets\\uploads\\0527da6d-f1fd-46ac-9b8e-ad52f190c7c3_mochi.jpg"
+    },
+    {
+      "Id": "D:\\WEB_Veternaria\\VeterinariaWebApp\\Veterinaria WebApp\\VeterinariaWebApp.ClientMvc\\wwwroot\\uploads\\09140a7b-7079-4454-a610-203c809c4de3_anita.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\09140a7b-7079-4454-a610-203c809c4de3_anita.jpeg"
+    },
+    {
+      "Id": "D:\\WEB_Veternaria\\VeterinariaWebApp\\Veterinaria WebApp\\VeterinariaWebApp.ClientMvc\\wwwroot\\uploads\\18eb04b8-d514-44b0-812d-8fc872e78d90_icono.png",
+      "PackagePath": "staticwebassets\\uploads\\18eb04b8-d514-44b0-812d-8fc872e78d90_icono.png"
+    },
+    {
+      "Id": "D:\\WEB_Veternaria\\VeterinariaWebApp\\Veterinaria WebApp\\VeterinariaWebApp.ClientMvc\\wwwroot\\uploads\\30cbd348-524d-4aa2-aa3d-d7688c518ea0_mochi mochi.png",
+      "PackagePath": "staticwebassets\\uploads\\30cbd348-524d-4aa2-aa3d-d7688c518ea0_mochi mochi.png"
+    },
+    {
+      "Id": "D:\\WEB_Veternaria\\VeterinariaWebApp\\Veterinaria WebApp\\VeterinariaWebApp.ClientMvc\\wwwroot\\uploads\\4e7d6255-f5c3-4b8a-83df-63a149195855_gato.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\4e7d6255-f5c3-4b8a-83df-63a149195855_gato.jpeg"
+    },
+    {
+      "Id": "D:\\WEB_Veternaria\\VeterinariaWebApp\\Veterinaria WebApp\\VeterinariaWebApp.ClientMvc\\wwwroot\\uploads\\753492d1-b670-405b-bdc3-0849274fd185_caballo.jpg",
+      "PackagePath": "staticwebassets\\uploads\\753492d1-b670-405b-bdc3-0849274fd185_caballo.jpg"
+    },
+    {
+      "Id": "D:\\WEB_Veternaria\\VeterinariaWebApp\\Veterinaria WebApp\\VeterinariaWebApp.ClientMvc\\wwwroot\\uploads\\8c5a09b0-f30d-4123-ab44-49182353437f_anita.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\8c5a09b0-f30d-4123-ab44-49182353437f_anita.jpeg"
+    },
+    {
+      "Id": "D:\\WEB_Veternaria\\VeterinariaWebApp\\Veterinaria WebApp\\VeterinariaWebApp.ClientMvc\\wwwroot\\uploads\\c36147b8-4cd6-454f-9591-890268bcb7c3_anita1.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\c36147b8-4cd6-454f-9591-890268bcb7c3_anita1.jpeg"
+    },
+    {
+      "Id": "D:\\WEB_Veternaria\\VeterinariaWebApp\\Veterinaria WebApp\\VeterinariaWebApp.ClientMvc\\wwwroot\\uploads\\d16e7ee5-a714-4ef5-aa08-f82272e2aa53_icono.png",
+      "PackagePath": "staticwebassets\\uploads\\d16e7ee5-a714-4ef5-aa08-f82272e2aa53_icono.png"
+    },
+    {
+      "Id": "D:\\WEB_Veternaria\\VeterinariaWebApp\\Veterinaria WebApp\\VeterinariaWebApp.ClientMvc\\wwwroot\\uploads\\d2b573fd-cd12-4007-8070-917e31892909_anita1.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\d2b573fd-cd12-4007-8070-917e31892909_anita1.jpeg"
+    },
+    {
+      "Id": "D:\\WEB_Veternaria\\VeterinariaWebApp\\Veterinaria WebApp\\VeterinariaWebApp.ClientMvc\\wwwroot\\uploads\\da9ffd16-7360-484a-adf2-f5c304ef1267_gao2.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\da9ffd16-7360-484a-adf2-f5c304ef1267_gao2.jpeg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.VeterinariaWebApp.ClientMvc.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.VeterinariaWebApp.ClientMvc.props",
+      "PackagePath": "build\\VeterinariaWebApp.ClientMvc.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.VeterinariaWebApp.ClientMvc.props",
+      "PackagePath": "buildMultiTargeting\\VeterinariaWebApp.ClientMvc.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.VeterinariaWebApp.ClientMvc.props",
+      "PackagePath": "buildTransitive\\VeterinariaWebApp.ClientMvc.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

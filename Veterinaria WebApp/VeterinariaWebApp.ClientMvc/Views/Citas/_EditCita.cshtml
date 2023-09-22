@@ -1,0 +1,60 @@
+﻿@model CitaViewModel
+
+<div asp-validation-summary="All" class="text-danger"></div>
+<div class="row row-cols-md-2 row-cols-lg-1">
+    <div class="col">
+        <div class="mb-3 row">
+            <label for="comments" class="col-sm-2 col-form-label">Motivo:</label>
+            <div class="col-sm-6 col-md-9">
+                <textarea asp-for="Motivo" class="form-control" id="Motivo" ></textarea>
+                <span asp-validation-for="Motivo" class="text-danger" />
+            </div>
+        </div>
+        
+        <div class="mb-3 row">
+            <label class="col-sm-2 col-form-label" asp-for="ClienteId"></label>
+            <div class="col-sm-6">
+                <select class="form-select" asp-for="ClienteId">
+                    <option>-Seleccione-</option>
+                    @foreach (var item in Model.Clientes)
+                    {
+                        <option value="@item.Id">@item.Nombres @item.Apellidos</option>
+                    }
+                </select>
+            </div>
+        </div>
+        <div class="mb-3 row">
+            <label class="col-sm-2 col-form-label" asp-for="MascotaId"></label>
+            <div class="col-sm-6">
+                <select class="form-select" asp-for="MascotaId">
+                    <option>-Seleccione-</option>
+                    @foreach (var item in Model.Mascotas)
+                    {
+                        <option value="@item.Id">@item.Nombres</option>
+                    }
+                </select>
+            </div>
+        </div>
+        <div class="mb-3 row">
+            <label class="col-sm-2 col-form-label" asp-for="ServicioId"></label>
+            <div class="col-sm-6">
+                <select class="form-select" asp-for="ServicioId">
+                    <option>-Seleccione-</option>
+                    @foreach (var item in Model.Servicios)
+                    {
+                        <option value="@item.Id">@item.Nombres</option>
+                    }
+                </select>
+            </div>
+        </div>
+    </div>
+
+    <button type="submit" class="btn btn-primary w-25"><i class="oi oi-plus me-1"></i>Grabar</button>
+
+</div>
+<style>
+    textarea {
+        resize : none;
+        height: 150px;
+    }
+</style>

@@ -1,0 +1,52 @@
+﻿@model ClienteViewModel
+
+<div asp-validation-summary="All" class="text-danger"></div>
+<div class="row row-cols-md-2 row-cols-lg-1">
+    <div class="col">
+        <div class="mb-3 row">
+            <label class="col-sm-2 form-label" asp-for="Nombres"></label>
+            <div class="col-sm-6">
+                <input asp-for="Nombres" class="form-control" />
+                <span asp-validation-for="Nombres" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="mb-3 row">
+            <label class="col-sm-2 form-label" asp-for="Apellidos"></label>
+            <div class="col-sm-6">
+                <input asp-for="Apellidos" class="form-control" />
+                <span asp-validation-for="Apellidos" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="mb-3 row">
+            <label class="col-sm-2 form-label" asp-for="Email"></label>
+            <div class="col-sm-6">
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="mb-3 row">
+            <label class="col-sm-2 form-label" asp-for="Telefono"></label>
+            <div class="col-sm-6">
+                <input asp-for="Telefono" class="form-control" />
+                <span asp-validation-for="Telefono" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="mb-3 row">
+            <label class="col-sm-2 form-label" asp-for="FechaNacimiento"></label>
+            <div class="col-sm-6">
+                <input type="date" asp-for="FechaNacimiento" class="form-control" />
+                <span asp-validation-for="FechaNacimiento" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="mb-3 row">
+            <label class="col-sm-2 form-label" asp-for="Direccion"></label>
+            <div class="col-sm-6">
+                <input asp-for="Direccion" class="form-control" />
+                <span asp-validation-for="Direccion" class="text-danger"></span>
+            </div>
+        </div>
+    </div>
+
+    <button type="submit" class="btn btn-primary w-25"><i class="oi oi-plus me-1"></i>Grabar</button>
+
+</div>

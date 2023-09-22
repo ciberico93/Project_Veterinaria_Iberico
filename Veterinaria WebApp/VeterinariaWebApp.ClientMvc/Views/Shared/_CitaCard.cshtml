@@ -1,0 +1,26 @@
+﻿@using VeterinariaWebApp.Entities;
+@model CitaInfo
+
+<div class="col mb-5">
+    <div class="card h-100">
+        <div>
+            <img class="card-img-top border-dark border-1 producto-card"
+                 src="@Model.FotoMascota" />
+        </div>
+        <div class="card-body p-4 text-center">
+            <h5 class="fw-bolder">@Model.Motivo</h5>
+            <span>@Model.Mascota</span> <br />
+            <span>@Model.Servicio</span> <br />
+            <span>S/.@Model.PrecioUnitario</span>
+            <span></span>
+        </div>
+        <div class="card-footer p-3 pt-1 border-top-0 bg-transparent">
+            <div class="text-center">
+                <a class="btn btn-outline-primary mt-auto" asp-controller="Citas"
+                asp-action="Detail" asp-route-id="@Model.Id">
+                    Ver Cita Completa
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
